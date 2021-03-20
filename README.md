@@ -1,4 +1,5 @@
 # Run Buddy
+Module 2: Advanced CSS
 
 ## Purpose
 A website that offers fitness training services.
