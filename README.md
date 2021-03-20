@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy Inc
 Module 2: Advanced CSS
 
 ## Purpose
