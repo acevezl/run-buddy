@@ -13,3 +13,5 @@ https://acevezl.github.io/run-buddy/
 
 ## Contribution
 Made with &#x2765; by Luis Arnaut
+
+### &copy;2021 Run Buddy, Inc.
